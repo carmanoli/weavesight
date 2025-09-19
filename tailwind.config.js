@@ -1,6 +1,5 @@
 /** @type {import('tailwindcss').Config} */
 import animate from "tailwindcss-animate" // Importa o plugin de animação
-import 'reactflow/dist/style.css';
 export default {
   darkMode: ["class"],
   content: [
